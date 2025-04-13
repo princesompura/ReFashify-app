@@ -17,7 +17,7 @@ const Navbar = () => {
     };
 
     const redirectToAdmin = () => {
-        window.open('https://re-fashify-adminpanel.vercel.app', '_blank');
+        window.open('https://re-fashify-adminpanel.vercel.app/', '_blank');
     };
 
     const updateUnderline = () => {
